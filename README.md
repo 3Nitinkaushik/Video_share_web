@@ -13,6 +13,15 @@ Try this App: https://3nitinkaushik.github.io/Video_share_web/
 
 ScreenShots:
 
+Login:
+
+![eb68181c-b2d5-41c6-bd1e-b5cb730574ad](https://user-images.githubusercontent.com/100613967/231836381-de67e133-68ff-4021-abf2-e5fd61f60c1b.jpg)
+
+Otp Verification:
+
+![85f67832-d2aa-4baa-94ff-f4cd937b3d30](https://user-images.githubusercontent.com/100613967/231836458-bdfb5077-6f9c-40cf-bb74-bbaa1719b330.jpg)
+
+
 Homeexplorer:
 
 ![ac3e1d58-bc67-4889-9cd9-0975c29027dc](https://user-images.githubusercontent.com/100613967/231833181-97071f41-0ded-49e0-ace1-f312d4ec2c0b.jpg)

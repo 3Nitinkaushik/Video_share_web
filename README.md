@@ -8,4 +8,31 @@ users can explore videos uploaded by other users and search for videos on the ap
 With this app, users can easily create and share videos with others, discover new content, and connect with people from all over the world.
 
 download Video Share app: https://docs.google.com/uc?export=download&id=1N2VBHnQXLrGGxhzDjxPNRUvmkbccDcz4
+
 Try this App: https://3nitinkaushik.github.io/Video_share_web/ 
+
+ScreenShots:
+
+Homeexplorer:
+
+![ac3e1d58-bc67-4889-9cd9-0975c29027dc](https://user-images.githubusercontent.com/100613967/231833181-97071f41-0ded-49e0-ace1-f312d4ec2c0b.jpg)
+
+Camera:
+
+![1603deb0-6cfb-4b50-bc74-69d27aa85528](https://user-images.githubusercontent.com/100613967/231833216-d4c8d551-4fc4-460e-bef3-8165303cd7f8.jpg)
+
+Search:
+
+![f4e933f2-4204-41e7-812a-94368c3fa0da](https://user-images.githubusercontent.com/100613967/231833243-fe13f3d5-9185-4536-a69c-dedb257712f9.jpg)
+
+Video View Screen Before Uploading:
+
+![cfd19ff3-f6fe-4311-a6ea-496e217874bf](https://user-images.githubusercontent.com/100613967/231833301-c30713ab-db7c-4632-9c1c-28cd9b93aeb6.jpg)
+
+Upload Form:
+
+![db68be9f-acb8-4ace-abf6-c83c7d9de353](https://user-images.githubusercontent.com/100613967/231833323-98e69324-a0a7-4815-8ed2-1737d3f8bb05.jpg)
+
+Uploading Screen:
+
+![27d3d32d-c09b-490d-8409-51b4b9a8d6c0](https://user-images.githubusercontent.com/100613967/231833353-dc813e51-c875-4315-b461-434ada760d2c.jpg)

@@ -9,7 +9,6 @@ With this app, users can easily create and share videos with others, discover ne
 
 download Video Share app: [https://docs.google.com/uc?export=download&id=1N2VBHnQXLrGGxhzDjxPNRUvmkbccDcz4](https://docs.google.com/uc?export=download&id=1qYbfTpwtnbV3k5IkkykAL_vji1a98NeM)
 
-Try this App: https://3nitinkaushik.github.io/Video_share_web/ 
 
 ScreenShots:
 

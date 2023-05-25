@@ -7,7 +7,7 @@ This video sharing app allows users to record videos, select videos from their p
 users can explore videos uploaded by other users and search for videos on the app. The app offers a login option through a user's mobile number.
 With this app, users can easily create and share videos with others, discover new content, and connect with people from all over the world.
 
-download Video Share app: https://docs.google.com/uc?export=download&id=1N2VBHnQXLrGGxhzDjxPNRUvmkbccDcz4
+download Video Share app: [https://docs.google.com/uc?export=download&id=1N2VBHnQXLrGGxhzDjxPNRUvmkbccDcz4](https://docs.google.com/uc?export=download&id=1qYbfTpwtnbV3k5IkkykAL_vji1a98NeM)
 
 Try this App: https://3nitinkaushik.github.io/Video_share_web/ 
 
@@ -24,7 +24,8 @@ Otp Verification:
 
 Homeexplorer:
 
-![ac3e1d58-bc67-4889-9cd9-0975c29027dc](https://user-images.githubusercontent.com/100613967/231833181-97071f41-0ded-49e0-ace1-f312d4ec2c0b.jpg)
+![436caf30-1fab-4aa7-a452-d721c624dd05](https://github.com/3Nitinkaushik/Video_share_web/assets/100613967/0159d11b-91f2-4be8-84fe-8781a5149e5e)
+
 
 Camera:
 
@@ -32,7 +33,8 @@ Camera:
 
 Search:
 
-![f4e933f2-4204-41e7-812a-94368c3fa0da](https://user-images.githubusercontent.com/100613967/231833243-fe13f3d5-9185-4536-a69c-dedb257712f9.jpg)
+![1421a5ce-268f-4eb7-825d-79491208d2f1](https://github.com/3Nitinkaushik/Video_share_web/assets/100613967/2a9b4148-8396-4ae0-854d-a2872346ef7b)
+
 
 Video View Screen Before Uploading:
 
